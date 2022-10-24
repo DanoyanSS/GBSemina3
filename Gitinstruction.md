@@ -145,3 +145,4 @@ git log master...branch_99 --boundary -- graph # показать коммиты
 ---
 добавл пару стро
 1
+2
