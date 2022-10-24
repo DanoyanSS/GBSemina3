@@ -147,3 +147,5 @@ git log master...branch_99 --boundary -- graph # показать коммиты
 Занятие от 24.10.2022 года 
 
 добавили ветку Second_seminar
+
+фывфывыфвфывфыв
